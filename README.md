@@ -1,12 +1,9 @@
 # Gioi_Thieu_Ban_Than
 
 ## Thong tin sinh vien
-- Ho ten: TRAN KIM HUI
+
+- Ho ten: Trần thái bảo
 - Lop: CNTT K16
-
-
-- Ho ten: Nguyen Minh Đợi
-- Lop: CNTT K20
 
 - Nganh hoc: Cong nghe thong tin
 
