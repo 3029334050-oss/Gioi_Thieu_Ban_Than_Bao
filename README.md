@@ -1,10 +1,12 @@
 # Gioi_Thieu_Ban_Than
 ## Thong tin sinh vien
-- Ho ten: Nguyen Van A
-- Lop: CNTT K20
-- Nganh hoc: Cong nghe thong tin
+- Họ tên: Lý Thiện Quí
+- Lớp: CNTT K16
+- Ngành học: Công nghệ thông tin
 ## Ky nang
-- Lap trinh C co ban
+- Lập trình C, C++ cơ bản
+- Lập trình Html, CSS, Javacript cơ bản
+- Photoshop cơ bản
 - Git va GitHub
 ## Muc tieu
-Ren luyen ky nang lap trinh va lam viec nhom.
+Rèn luyện kỹ năng lập trình và làm việc nhóm.
